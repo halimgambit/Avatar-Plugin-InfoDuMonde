@@ -1,0 +1,13 @@
+{
+	"modules": { 
+		"InfoDuMonde": {
+			"version": "1.0",
+			"name": "le-monde",
+			"rules": {
+				"infoMonde": ["info of the world","world * info","the news of the newspaper le monde","world news"],
+				"command2": ["test * (command|order) * (two|2)"]
+			}
+		}
+	}
+}
+			
